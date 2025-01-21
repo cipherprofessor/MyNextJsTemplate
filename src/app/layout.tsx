@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "My Warehouse NextJS",
-  description: "My Warehouse NextJS",
+  title: "My NextJS Templtate",
+  description: "My NextJS Templtate",
 };
 
 export default function RootLayout({
